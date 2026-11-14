@@ -23,12 +23,12 @@ was tested and **did not succeed**. This is not an ad blocker for other apps.
 | Retail model | **UN85DU7200FXZA** |
 | System | Tizen 9.0, ARMv7 |
 | Exact build | `T-KSU2EDAKUC-0090-REL-202605141700` |
-| Host validation | macOS on Apple silicon, Python 3.12, OpenSSL |
+| Live host validation | macOS on Apple silicon, Python 3.12, OpenSSL |
 | Status | Experimental v0.1.0; one owner-tested TV |
 
 The tool refuses other models/builds, altered units, symbolic-link backup paths,
 and pre-existing block markers. **Do not remove guards to try another Samsung.**
-Other host platforms have not been validated. Request support through an issue
+Live TV connectivity on other host platforms has not been validated. Request support through an issue
 with the model/build only; no network or account information is needed.
 
 ## Get started

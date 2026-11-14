@@ -16,7 +16,7 @@ binaries are included. Model/build are compatibility information, not a serial.
 | Isolated fresh-state effectiveness | **Not tested**: the one owner TV had earlier app/channel changes; do not attribute the combined result solely to the public two-step recipe |
 | Full live inverse | **Not tested**. Host tests exercise restore and failure guards; no promise of complete TV recovery |
 | Other TVs/firmware | **Not tested; refused**. No Samsung-wide compatibility claim |
-| Other host OSes | **Not tested**; only macOS Apple silicon validated |
+| Other host OSes | Ubuntu/macOS host CI passed; live TV transport tested only on macOS Apple silicon |
 
 The release preparation's automated and live-inspection results are recorded in
 [PROJECT-STATE.md](../PROJECT-STATE.md). Host tests use isolated service/filesystem

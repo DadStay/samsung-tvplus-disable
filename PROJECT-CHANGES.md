@@ -17,3 +17,18 @@
   inspect only cache components and reran all tests successfully.
 - New public setup/preflight/root-inspect passed on the development TV; no live
   public disable/restore or additional TV-setting mutation. Publication pending.
+
+## 2026-11-13 — Public repository and release verified
+
+- Published the authorized public MIT repository and v0.1.0 source-only ZIP with
+  SHA256SUMS. Issues, Discussions, private vulnerability reporting, secret scanning
+  and push protection enabled. No private original-TV material or old Git history.
+- Anonymous download matched the audited local ZIP byte-for-byte; all28 files/CRC
+  passed. Anonymous remote source audit matched all28 files and generic-author
+  initial history. The initial Git push lacked a credential helper; retried with
+  the existing authenticated GitHub CLI's one-operation Git helper, without
+  exposing, copying or writing credential values.
+- GitHub CI run43534590065 completed successfully on Ubuntu and macOS.17 tests
+  per host, shell syntax and release checks passed. No live Linux-TV test implied.
+- Frozen release tag points to daf0286a75d2071ed6f5e5724dc37548b2fd1b28; this
+  documentation follow-up records actual publication evidence without moving it.

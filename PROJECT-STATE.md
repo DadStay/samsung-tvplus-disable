@@ -1,7 +1,14 @@
 # Project checkpoint — 2026-11-13
 
-Version: 0.1.0, experimental. Independent source-only publication prepared for
-`DadStay/samsung-tvplus-disable`; initial public push/release verification pending.
+Version: 0.1.0, experimental. Published at https://github.com/DadStay/samsung-tvplus-disable.
+Release v0.1.0 source commit: daf0286a75d2071ed6f5e5724dc37548b2fd1b28.
+GitHub Issues/Discussions/private vulnerability reporting/secret scanning and push
+protection are enabled. Anonymous repository access and ZIP download were verified.
+ZIP SHA-256:1296c3b1faaa492001e303b7fee503aca682a66c8ecebe28baff6c636bb5f23f.
+The28-file source-only ZIP exactly matched the audited local artifact and CRC.
+Remote source files matched the audited tree; fresh generic-author history only.
+CI run43534590065 passed both Ubuntu/macOS host jobs. This is host-fixture
+coverage, not live-TV validation on Linux. The release tag remains immutable.
 
 ## Scope and evidence
 
@@ -30,9 +37,12 @@ Version: 0.1.0, experimental. Independent source-only publication prepared for
    This publication is a playback block, not a full uninstall. Developer Mode
    closure on that development TV is not confirmed; no claim that it was closed.
 
-## Next action
+## Remaining boundaries and next action
 
-Audit the exact public files and ZIP, verify clean anonymous commit identity,
-publish the authorized public repository/release, enable discussion/reporting,
-and verify remote contents, download checksum and CI. Do not change the TV again
-as part of release preparation. Public host coverage beyond macOS is unverified.
+Publication scope is complete and verified. No background task or TV change is
+needed. Maintain the exact compatibility/rollback/privacy guards for community
+reports; do not label black/title-only TV Plus as full removal. Live public
+application from a clean factory state and full live inverse remain unverified.
+Live TV host connectivity beyond macOS is unverified. Development-TV maintenance
+closure is still pending owner action. Release ZIP reflects the tagged source;
+this post-publication checkpoint on main adds verified distribution evidence.
