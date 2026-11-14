@@ -32,3 +32,12 @@
   per host, shell syntax and release checks passed. No live Linux-TV test implied.
 - Frozen release tag points to daf0286a75d2071ed6f5e5724dc37548b2fd1b28; this
   documentation follow-up records actual publication evidence without moving it.
+
+## 2026-11-13 — English video walkthrough
+
+- Attached approved1080p30English MP4,SRT,poster and separatevideo checksums to
+  existingv0.1.0release; existing sourceZIP/checksums/tag unchanged.
+- Linked the film from English/ArabicREADME and docs/video.md, retaining all
+  compatibility and incomplete-uninstall/clean-state/rollback limitations.
+- Isolated public documentation tree passed release allowlist/privacy/local-link
+  checks. No private-device/account records or local audit history included.

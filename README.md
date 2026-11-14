@@ -16,6 +16,17 @@ TV screen can still show a channel title when OK is pressed. The dedicated TV Pl
 remote button can still display Samsung's “disabled” notice. Complete UI removal
 was tested and **did not succeed**. This is not an ad blocker for other apps.
 
+## Video walkthrough
+
+**I Finally Disabled Samsung TV Plus Using AI** — English narration and captions,
+3 min 43 sec, 1080p. The film demonstrates the exact-target setup, guarded commands,
+native Disable action and checks. It does not establish support for other TVs or
+complete component removal.
+
+[![Watch the English walkthrough](https://github.com/DadStay/samsung-tvplus-disable/releases/download/v0.1.0/Samsung-TV-Plus-Video-Poster.jpg)](https://github.com/DadStay/samsung-tvplus-disable/releases/download/v0.1.0/I-Finally-Disabled-Samsung-TV-Plus-Using-AI.mp4)
+
+[Watch/download MP4](https://github.com/DadStay/samsung-tvplus-disable/releases/download/v0.1.0/I-Finally-Disabled-Samsung-TV-Plus-Using-AI.mp4) · [English subtitles](https://github.com/DadStay/samsung-tvplus-disable/releases/download/v0.1.0/Samsung-TV-Plus-English.srt) · [Video details](docs/video.md)
+
 ## Compatibility
 
 | Item | Supported target |

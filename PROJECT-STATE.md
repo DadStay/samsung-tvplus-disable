@@ -1,3 +1,14 @@
+# Public checkpoint — video walkthrough, 2026-11-13
+
+Version0.1.0 remains experimental. The approved English landscape walkthrough
+(223.333seconds,1080p30) is attached to the existingv0.1.0 release with SRT,poster
+and a separateVIDEO-SHA256SUMS.txt. SourceZIP and release tag were not replaced.
+Only public documentation changes in this batch; no TV writes or new TV validation.
+The public docs retain exact-model/build, prior-state, residualUI and rollback limits.
+Release asset digests match the approved local movie/SRT/poster. Documentation
+allowlist, privacy-pattern and local-link validation passed in an isolated public
+tree. Remote publication and CI evidence are recorded separately after completion.
+
 # Project checkpoint — 2026-11-13
 
 Version: 0.1.0, experimental. Published at https://github.com/DadStay/samsung-tvplus-disable.

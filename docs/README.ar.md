@@ -7,6 +7,14 @@
 سوداء بعنوان قناة عند ضغط OK، أو رسالة «الخدمة معطّلة» عند ضغط زر TV Plus.
 إزالة جميع عناصر الواجهة لم تنجح في الاختبار؛ لا نسمّيها حذفًا نهائيًا.
 
+## شرح بالفيديو
+
+فيديو **I Finally Disabled Samsung TV Plus Using AI** بالإنجليزية، مع ترجمة
+إنجليزية، مدته 3 دقائق و43 ثانية بدقة 1080p. يوضح إعداد المشروع والأوامر
+والتعطيل من قائمة سامسونج والتحقق. لا يدّعي حذف جميع المكونات أو دعم كل التلفزيونات.
+
+[شاهد أو نزّل الفيديو](https://github.com/DadStay/samsung-tvplus-disable/releases/download/v0.1.0/I-Finally-Disabled-Samsung-TV-Plus-Using-AI.mp4) · [ملف الترجمة](https://github.com/DadStay/samsung-tvplus-disable/releases/download/v0.1.0/Samsung-TV-Plus-English.srt) · [تفاصيل الفيديو](video.md)
+
 ## التوافق المتحقق
 
 - الموديل: **UN85DU7200FXZA**، تيزين 9.0، ARMv7.
