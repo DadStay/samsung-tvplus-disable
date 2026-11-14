@@ -1,0 +1,28 @@
+name: Supported TV result or compatibility request
+description: Share model/build and behavior only. No identifiers, logs or personal photos.
+body:
+  - type: checkboxes
+    attributes:
+      label: Privacy
+      options:
+        - label: I have removed IP/MAC addresses, serials, accounts, tokens, Wi-Fi names and personal screenshots.
+          required: true
+  - type: input
+    id: model
+    attributes:
+      label: Exact retail model
+    validations:
+      required: true
+  - type: input
+    id: build
+    attributes:
+      label: Firmware build
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: What happened?
+      description: State operation, picture/audio versus title-only UI, restart results, and YouTube/HDMI behavior. Do not upload raw logs.
+    validations:
+      required: true
